@@ -1,15 +1,16 @@
 {
-	"name": "non-blocking-working-handler",
-	"version": "0.1.1",
-	"description": "Non-blocking working handler example app",
+	"name": "file-uploads",
+	"version": "0.1.3",
+	"description": "Handling file uploads example app",
 	"main": "server.js",
 	"scripts": {
 		"start": "node index.js"
 	},
 	"dependencies": {
+	  "formidable": "*"
 	},
 	"engines": {
-		"node": "8.X"
+		"node": "8.10.0"
 	},
 	"repository": {
 		"type": "git",
