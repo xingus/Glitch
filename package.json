@@ -1,7 +1,7 @@
 {
-	"name": "route-requests",
-	"version": "0.0.6",
-	"description": "Route requests example app",
+	"name": "non-blocking-working-handler",
+	"version": "0.1.1",
+	"description": "Non-blocking working handler example app",
 	"main": "server.js",
 	"scripts": {
 		"start": "node index.js"
